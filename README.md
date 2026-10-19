@@ -4,7 +4,7 @@ I am a **Data Scientist** currently working in the automotive industry. I'm also
 
 ### 🛠️ Tech Stack & Interests
 
-*   **Core Expertise:** Data Science & Machine Learning (Automotive Domain)
+*   **Core Expertise:** Data Science & Machine Learning 
 *   **Development Interests:** Web Development, Mobile Applications, and Home Automation / IoT
 
 ---
